@@ -33,7 +33,7 @@
 
 ```bash
 pip install pandas numpy matplotlib
-jupyter notebook analysis.ipynb
+jupyter notebook stats-analysis.ipynb
 ```
 
 ## 프로젝트 배경
