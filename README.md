@@ -9,6 +9,8 @@
 | 사용 기술 | Python, pandas, NumPy, matplotlib, Jupyter Notebook |
 | 결과물 | [분석 노트북](stats-analysis.ipynb) |
 
+> 같은 데이터를 2024년까지 넓혀 요양급여비용을 예측하는 머신러닝 모델을 만든 팀 프로젝트: [mental-health-cost-prediction](https://github.com/bestlim1/mental-health-cost-prediction)
+
 ## 분석 질문과 결과
 
 ### 1. 서울에서 우울증 환자가 많은 자치구는 어디인가
